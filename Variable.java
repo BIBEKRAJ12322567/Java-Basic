@@ -31,7 +31,7 @@ public class Variable{
         //     System.out.println("You are not a student");
         // }
 
-        String name = "Bibekraj";
+        String name = "Bibek";
         System.out.println("Hii " + name);
     }
 }
